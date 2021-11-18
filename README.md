@@ -5,7 +5,7 @@
 <p align="left">React, Firebase, JavaScript</p>
 
 <h2>About this Project</h2>
-<p align="left">This project is a clone of Google Drive in which an individual user can upload & store their files online. Firebase is used for registering and authenticating users. 
+<p align="left">This project is a clone of Google Drive in which an individual user can upload & store their files online. Firebase is used for registering and authenticating users. It is also used to store the user's uploaded data. 
 </p>
 
 <h2 align="center">Preview</h2>
